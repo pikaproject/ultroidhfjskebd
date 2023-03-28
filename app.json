@@ -52,7 +52,7 @@
     },
     "buildpacks": [
     {
-        "url":"heroku buildpacks:python-3.10.10 heroku/python"
+        "url":"heroku/python:3.10.10"
     },
     {
         "url":"heroku-community/apt"
