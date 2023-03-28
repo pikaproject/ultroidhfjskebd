@@ -57,3 +57,5 @@ speechrecognition
 speedtest-cli
 textblob
 wikipedia
+python3
+python3-pip
