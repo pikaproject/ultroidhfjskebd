@@ -1,6 +1,6 @@
 https://github.com/New-dev0/Telethon/archive/Artifact.zip
 py-Ultroid
-pytgcalls==2.1.0
+pytgcalls==3.0.0.dev21
 
 akinator.py
 apscheduler
