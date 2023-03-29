@@ -1,13 +1,3 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/pikaproject/ultroidhfjskebd)
 
-Instructions 
----------------------
-1. Add Vars manually on Heroku
-
-* `API_ID` 
-* `API_HASH` 
-* `SESSION`
-* `REDIS_URI` 
-* `REDIS_PASSWORD`
-* `BOT_TOKEN` 
-* `LOG_CHANNEL`
+Modified by <a href="https://t.me/XRofikX">Pikachu</a>
