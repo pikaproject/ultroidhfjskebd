@@ -2,7 +2,7 @@
 
 Instructions 
 ---------------------
-1. Add Vars manually om Heroku
+1. Add Vars manually on Heroku
 
 * `API_ID` 
 * `API_HASH` 
