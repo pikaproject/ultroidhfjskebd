@@ -4,6 +4,7 @@ bash installer.sh
 
 pip3 uninstall av -y
 pip3 install av --no-binary av
+pip install MediaInfo
 
 cd root/MyTGBot
 
