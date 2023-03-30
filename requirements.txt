@@ -57,6 +57,5 @@ speedtest-cli
 textblob
 wikipedia
 jq
-mediainfo==6.0.1
-gcc
-pkg-config
+mediainfo==0.0.9
+
