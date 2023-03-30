@@ -57,6 +57,6 @@ speedtest-cli
 textblob
 wikipedia
 jq
-mediainfo
+mediainfo==23.03
 gcc
 pkg-config
