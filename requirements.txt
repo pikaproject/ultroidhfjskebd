@@ -57,5 +57,4 @@ speedtest-cli
 textblob
 wikipedia
 jq
-mediainfo==0.0.9
 
