@@ -56,3 +56,7 @@ speechrecognition
 speedtest-cli
 textblob
 wikipedia
+jq
+mediainfo
+gcc
+pkg-config
